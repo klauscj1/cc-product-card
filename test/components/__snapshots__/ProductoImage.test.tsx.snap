@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage debe mostrar el componente correctamente con el titulo personalizado 1`] = `
+<img
+  alt="product-image"
+  className="productImg undefined"
+  src="./assets/no-image.png"
+/>
+`;
+
+exports[`ProductImage debe mostrar el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="product-image"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImate debe mostrar el componente correctamente con el titulo personalizado 1`] = `
+<img
+  alt="product-image"
+  className="productImg undefined"
+  src="./assets/no-image.png"
+/>
+`;
+
+exports[`ProductImate debe mostrar el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="product-image"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductTitle debe mostrar el componente correctamente con el titulo personalizado 1`] = `
+<img
+  alt="product-image"
+  className="productImg undefined"
+  src="./assets/no-image.png"
+/>
+`;
+
+exports[`ProductTitle debe mostrar el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="product-image"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
