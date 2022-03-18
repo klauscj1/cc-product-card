@@ -8,7 +8,7 @@ Este es un paquete de pruebas de despliegue en NPM
 import {  ProductImage, ProductButtons, ProductTitle, ProductCard } from 'cc-product-card';
 ```
 
-````
+```
 
       <ProductCard
         product={product}
@@ -22,5 +22,5 @@ import {  ProductImage, ProductButtons, ProductTitle, ProductCard } from 'cc-pro
           </>
         )}
       </ProductCard>
-      ```
-````
+
+```
